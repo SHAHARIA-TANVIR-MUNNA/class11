@@ -1,0 +1,199 @@
+*{padding: 0;
+margin: 0;
+box-sizing: border-box;}
+body{background: gray;}
+.container {
+    background: #fff;
+    width: 800px;
+    height: 1000px;
+    margin: 0 auto;
+    margin-top: 20px;
+    border-radius: 20px;
+padding: 30px;
+}
+.container .part-1{
+    width: 100%;
+    height: 8%;
+    
+}
+.container .part-1 .row-1 {
+    height: 100%;
+    width: 20%;
+    float: left;
+   }
+.container .part-1 .row-1 h1{
+    padding-top: 20px;
+    font-size: 40px;
+ 
+}
+.container .part-1 .row-1 h1 a{
+    text-decoration: none;
+    color: red;
+}
+.container .part-1 .row-2{
+    height: 100%;
+    width: 50%;
+    float: left;
+  
+}
+.container .part-1 .row-2 h2{
+    font-size: 14px;
+    display: inline-block;
+    text-align: center;
+    padding-top: 16px;
+    padding-left: 8px;
+    text-transform:uppercase;
+}
+.container .part-1 .row-2 h2 a{
+    text-decoration: none;
+    color: rgb(6, 143, 1);
+}
+.container .part-1 .row-3{
+    height: 100%;
+    width: 30%;
+    float: left;
+}
+.container .part-1 .row-3 p{
+    text-align: center;
+    padding-top: 15px;
+    padding-left: 10px;
+}
+.container .part-1 .row-3 p a{
+    text-decoration: none;
+    color: red;
+}
+.part-2{
+    background: rgb(30, 255, 0);
+width: 100%;
+height: 20%;
+margin-top: 10px;
+}
+.part-2 h1{
+    text-align: center;
+    padding-top:90px;
+    color: #fff;
+    font-family:sans-serif;
+    font-size: 40px;
+}
+.part-3{
+    width: 100%;
+    height: 15%;
+   
+    margin-top: 10px;
+}
+.part-3 .row-4{
+    height: 100%;
+    width: 24.1%;
+    background: rgb(199, 80, 80);
+    display: inline-block;
+    margin-left: .569%;
+    padding-left: 8px;
+}
+.part-3 .row-4 h1{
+    font-size: 15px;
+    padding-top: 10px;
+    color: #fff;
+}
+.part-3 .row-4 .p{
+    background: rgb(185, 184, 184);
+  width: 55%;
+  height: 60%;
+  margin-left: 60PX;
+}
+.part-3 .row-4 .p p{
+    text-align: center;
+    font-size: 14px;
+    padding-top: 20px;
+}
+.part-4{
+    width: 100%;
+    height: 40%;
+    background: rgb(236, 233, 233);
+    margin-top: 10px;
+}
+.part-4 .collumn-1{
+    height: 100%;
+    width: 24.5%;
+
+    float: left;
+    margin-right: .75%;
+}
+.part-4 .collumn-1 .row-4{
+    width: 100%;
+    height: 49%;
+   
+    background: rgb(92, 226, 65);
+}
+
+.part-4 .collumn-1 .row-4 h1{
+    font-size: 17px;
+    background: rgb(1, 141, 19);
+    width: 11%;
+    height: 11.5%;
+}
+.part-4 .collumn-1 .row-5{
+    width: 100%;
+    height: 49%;
+   margin-top: 4%;
+    background: rgb(206, 205, 205);
+}
+.part-4 .collumn-1 .row-5 h1{
+    text-align: center;
+    background: green;
+    color: #fff;
+}
+.part-4 .collumn-2{
+    height: 100%;
+    width: 49.5%;
+    background:  rgb(206, 205, 205);
+    float: left;
+    margin-right: .75%;
+}
+.part-4 .collumn-2 h1{
+    font-size: 25px;
+    text-align: center;
+    background: green;
+    color: #fff;
+}
+.part-4 .collumn-2 h2{
+    font-size: 15px;
+    padding-top: 10px;
+    margin-left: 10px;
+    margin-bottom: 10px;
+}
+.part-4 .collumn-2 p{
+    font-size: 10px;
+    text-align: justify;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.part-4 .collumn-3 {
+    height: 100%;
+    width: 24.5%;
+    background:  rgb(255, 255, 255);
+    float: left;
+   
+}
+.part-4 .collumn-3 .row-6{
+    width: 100%;
+   height: 32.5%;
+   background:  rgb(206, 205, 205);
+   margin-top: 2.6%;
+}
+.part-4 .collumn-3 .row-6 h1{
+text-align: center;
+font-size: 20px;
+background: green;
+}
+.part-5{
+    width: 100%;
+    height: 13%;
+    background: green;
+    margin-top: 1.3%;
+}
+.part-5 h1{
+    text-align: center;
+    padding-top: 35px;
+    color: #fff;
+}
+
